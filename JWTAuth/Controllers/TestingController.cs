@@ -13,5 +13,10 @@ namespace JWTAuth.Controllers
         {
             return View();
         }
+
+        public ActionResult KumarSharma()
+        {
+            return View();
+        }
     }
 }
