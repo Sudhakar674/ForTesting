@@ -1,50 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Q:\\repository\\JWTAuth\\",
+  "WorkspaceRootPath": "Q:\\repository\\ForTesting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|q:\\repository\\jwtauth\\jwtauth\\views\\testing\\kumarsharma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\ForTesting\\jwtauth\\views\\testing\\kumarsharma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\testing\\kumarsharma.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|q:\\repository\\jwtauth\\jwtauth\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|q:\\repository\\fortesting\\jwtauth\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\controllers\\testingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\views\\testing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\testing\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\models\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\models\\accountloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\models\\accountloginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\JWTAuth\\jwtauth\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|Q:\\repository\\ForTesting\\jwtauth\\views\\testing\\kumarsharma22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{933BA85E-F1A6-4B5D-A42E-9ED84D3ABF28}|JWTAuth\\JWTAuth.csproj|solutionrelative:jwtauth\\views\\testing\\kumarsharma22.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,142 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestingController.cs",
+              "DocumentMoniker": "Q:\\repository\\ForTesting\\JWTAuth\\Controllers\\TestingController.cs",
+              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\TestingController.cs",
+              "ToolTip": "Q:\\repository\\ForTesting\\JWTAuth\\Controllers\\TestingController.cs",
+              "RelativeToolTip": "JWTAuth\\Controllers\\TestingController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T13:46:08.223Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "KumarSharma.cshtml",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
+              "DocumentMoniker": "Q:\\repository\\ForTesting\\JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
               "RelativeDocumentMoniker": "JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
+              "ToolTip": "Q:\\repository\\ForTesting\\JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
               "RelativeToolTip": "JWTAuth\\Views\\Testing\\KumarSharma.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-18T13:49:24.707Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Testing\\Index.cshtml",
-              "RelativeDocumentMoniker": "JWTAuth\\Views\\Testing\\Index.cshtml",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Testing\\Index.cshtml",
-              "RelativeToolTip": "JWTAuth\\Views\\Testing\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "KumarSharma22.cshtml",
+              "DocumentMoniker": "Q:\\repository\\ForTesting\\JWTAuth\\Views\\Testing\\KumarSharma22.cshtml",
+              "RelativeDocumentMoniker": "JWTAuth\\Views\\Testing\\KumarSharma22.cshtml",
+              "ToolTip": "Q:\\repository\\ForTesting\\JWTAuth\\Views\\Testing\\KumarSharma22.cshtml",
+              "RelativeToolTip": "JWTAuth\\Views\\Testing\\KumarSharma22.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-18T13:46:17.188Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TestingController.cs",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\TestingController.cs",
-              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\TestingController.cs",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\TestingController.cs",
-              "RelativeToolTip": "JWTAuth\\Controllers\\TestingController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T13:46:08.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Account\\Index.cshtml",
-              "RelativeDocumentMoniker": "JWTAuth\\Views\\Account\\Index.cshtml",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Account\\Index.cshtml",
-              "RelativeToolTip": "JWTAuth\\Views\\Account\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T17:59:01.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "JWTAuth\\Views\\Account\\Login.cshtml",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "JWTAuth\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T13:45:47.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "JWTAuth\\Views\\Home\\Index.cshtml",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "JWTAuth\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-16T13:44:27.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountLoginModel.cs",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Models\\AccountLoginModel.cs",
-              "RelativeDocumentMoniker": "JWTAuth\\Models\\AccountLoginModel.cs",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Models\\AccountLoginModel.cs",
-              "RelativeToolTip": "JWTAuth\\Models\\AccountLoginModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:17:23.731Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Authentication.cs",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Models\\Authentication.cs",
-              "RelativeDocumentMoniker": "JWTAuth\\Models\\Authentication.cs",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Models\\Authentication.cs",
-              "RelativeToolTip": "JWTAuth\\Models\\Authentication.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAIwCsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:02:35.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\HomeController.cs",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "JWTAuth\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:01:39.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "JWTAuth\\Controllers\\AccountController.cs",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "JWTAuth\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAwwDsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:01:15.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Web.config",
-              "DocumentMoniker": "Q:\\repository\\JWTAuth\\JWTAuth\\Web.config",
-              "RelativeDocumentMoniker": "JWTAuth\\Web.config",
-              "ToolTip": "Q:\\repository\\JWTAuth\\JWTAuth\\Web.config",
-              "RelativeToolTip": "JWTAuth\\Web.config",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-16T11:51:16.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T14:22:26.402Z"
             }
           ]
         }
