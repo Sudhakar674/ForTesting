@@ -172,6 +172,7 @@
     <Content Include="Views\Account\Index.cshtml" />
     <Content Include="Views\Testing\Index.cshtml" />
     <Content Include="Views\Testing\KumarSharma.cshtml" />
+    <Content Include="Views\Testing\KumarSharma22.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
